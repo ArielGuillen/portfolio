@@ -16,27 +16,31 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background-white.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "white abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a backend developer with solid experience in creating and optimizing project architectures.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "APIs",
+  "Data Modeling",
+  "Authentication",
+  "Validation",
+  "Database management",
+  "Performance optimization",
+  "Code review",
+  "Continuous integration",
+  "Continuous deployment",
+  "Agile methodologies",
 ];
 
 /**
@@ -45,7 +49,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My focus is on effective problem solving and code optimization to ensure exceptional performance. My ability to learn quickly allows me to adapt to new challenges and technologies with ease. With an ongoing commitment to technical excellence, I am ready to contribute my experience to ambitious projects and continue growing in the exciting world of backend development.";
 
 const About = () => {
   return (

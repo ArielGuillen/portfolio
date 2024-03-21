@@ -28,7 +28,7 @@ const siteProps = {
   title: "Backend Developer",
   email: "ariel.guillen.dev@gmail.com",
   gitHub: "ArielGuillen",
-  linkedIn: "Ariel Guillen Blanco",
+  linkedIn: "ariel-guillen-blanco",
 };
 
 const primaryColor = "#4E567E";
